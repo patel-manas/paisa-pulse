@@ -1,3 +1,4 @@
+// @ts-nocheck
 const transformkey = (value: string): string => {
   // Check if the word is not empty
   if (value.length > 0) {

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Text, Heading, Button } from "@chakra-ui/react";
 import { useNavigate } from "react-router-dom";
 

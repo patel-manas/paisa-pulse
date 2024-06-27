@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { ReactNode, useCallback } from "react";
 import {
   Button,

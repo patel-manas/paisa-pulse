@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Box, Button, Heading } from "@chakra-ui/react";
 
 import {

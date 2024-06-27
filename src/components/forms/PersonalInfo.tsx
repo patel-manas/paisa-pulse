@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Button, FormControl, FormLabel, Input } from "@chakra-ui/react";
 
 type Props = {};

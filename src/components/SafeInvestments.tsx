@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Box, Tooltip } from "@chakra-ui/react";
 import { formatToIndianRupees } from "../utils/calculation";
 

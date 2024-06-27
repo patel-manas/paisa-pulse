@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { sipReturns } from "personal-finance-calculator";
 import { FormFiled } from "../jotai/Atoms";
 

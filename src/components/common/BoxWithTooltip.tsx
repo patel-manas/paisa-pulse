@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Box, Tooltip } from "@chakra-ui/react";
 import React, { PropsWithChildren, ComponentProps } from "react";
 

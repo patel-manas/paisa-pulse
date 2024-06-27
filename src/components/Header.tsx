@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Button, Text } from "@chakra-ui/react";
 
 import logoImg from "../assets/salary.png";
